@@ -38,8 +38,12 @@ The project includes various **matplotlib** plots comparing different fluids and
 ![Net Power Output](images/net_power_output.png)
 
 ### Validation of Results with Research Paper for R1234yf Fluid
-![Validation](Images/5-1.png)
-![Validation](Images/5-2.png)
+<p align="center">
+  <img src="Images/5-1.png"  width="250"/>
+  <img src="Images/5-2.png"  width="250"/>
+</p>
+
+
 
 ## References
 This project is based on the paper:
