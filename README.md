@@ -27,6 +27,20 @@ The project includes various **matplotlib** plots comparing different fluids and
 - **Net Power Output for Different Fluids**
 - **Validation of Results with Research Paper for R1234yf Fluid**
 
+
+### Thermal Efficiency vs. Turbine Inlet Pressure
+![Thermal Efficiency](images/thermal_efficiency.png)
+
+### Exergy Destruction in Different ORC Components
+![Exergy Destruction](images/exergy_destruction.png)
+
+### Net Power Output for Different Fluids
+![Net Power Output](images/net_power_output.png)
+
+### Validation of Results with Research Paper for R1234yf Fluid
+![Validation](Images/5-1.png)
+![Validation](Images/5-2.png)
+
 ## References
 This project is based on the paper:
 > *Exergy analysis of organic Rankine cycle for waste heat recovery using low GWP refrigerants* - A. E. Elahi et al., International Journal of Thermofluids, 2022.
