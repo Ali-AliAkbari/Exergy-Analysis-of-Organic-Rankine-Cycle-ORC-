@@ -39,8 +39,8 @@ The project includes various **matplotlib** plots comparing different fluids and
 
 ### Validation of Results with Research Paper for R1234yf Fluid
 <p align="center">
-  <img src="Images/5-1.png"  width="250"/>
-  <img src="Images/5-2.png"  width="250"/>
+  <img src="Images/5-1.png"  width="400"/>
+  <img src="Images/5-2.png"  width="400"/>
 </p>
 
 
