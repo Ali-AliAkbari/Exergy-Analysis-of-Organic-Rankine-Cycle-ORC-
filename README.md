@@ -34,8 +34,12 @@ The project includes various **matplotlib** plots comparing different fluids and
 ### Exergy Destruction in Different ORC Components
 ![Exergy Destruction](images/exergy_destruction.png)
 
-### Net Power Output for Different Fluids
-![Net Power Output](images/net_power_output.png)
+### Exergy Destruction in Different ORC Components
+<p align="center">
+  <img src="Images/4-1.png"  width="400"/>
+  <img src="Images/4-2.png"  width="400"/>
+  <img src="Images/3.png"  width="450"/>
+</p>
 
 ### Validation of Results with Research Paper for R1234yf Fluid
 <p align="center">
