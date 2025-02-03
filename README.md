@@ -29,10 +29,17 @@ The project includes various **matplotlib** plots comparing different fluids and
 
 
 ### Thermal Efficiency vs. Turbine Inlet Pressure
-![Thermal Efficiency](images/thermal_efficiency.png)
+<p align="center">
+  <img src="Images/1-3.png"  width="400"/>
+  <img src="Images/2-2.png"  width="400"/>
+</p>
 
-### Exergy Destruction in Different ORC Components
-![Exergy Destruction](images/exergy_destruction.png)
+### Exergy Efficiency in Different ORC Components
+<p align="center">
+  <img src="Images/1-4.png"  width="400"/>
+  <img src="Images/2-4.png"  width="400"/>
+</p>
+
 
 ### Exergy Destruction in Different ORC Components
 <p align="center">
